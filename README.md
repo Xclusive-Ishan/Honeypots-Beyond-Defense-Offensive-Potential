@@ -139,6 +139,8 @@ While the current implementation focuses on HTTP/HTTPS, SSH, SMB, FTP, and DNS, 
 
 ## Results 
 
+### https-honeypot
+
 ![Conatiner set up and Ready](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/docker_container.png)
 
 ![dcoker is running and server is hosted](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/container_is_running_and_server_is_hosted.png)
@@ -146,6 +148,12 @@ While the current implementation focuses on HTTP/HTTPS, SSH, SMB, FTP, and DNS, 
 ![Dos started](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/dos_started.png)
 
 ![1000 fire at single point - DOS done - imapcxted system perfomance ](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/dos_1000request_done.png)
+
+### ftp-honeypot
+![attacker_device](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/ftp-honeypot/attacker_device.jpeg)
+![both_ftp_server_started](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/ftp-honeypot/both_ftp_server_started.png)
+![honeypot_used_for_attack_logs](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/ftp-honeypot/honeypot_used_for_attack_logs.png)
+![target_logs](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/ftp-honeypot/target_logs.png)
 
 ## Guildelines
 - Ethical Use Only: The Honeypot is for ethical security research. Do not use it for malicious purposes such as unauthorized access or exploitation.
