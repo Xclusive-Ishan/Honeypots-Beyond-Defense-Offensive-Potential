@@ -139,7 +139,7 @@ While the current implementation focuses on HTTP/HTTPS, SSH, SMB, FTP, and DNS, 
 
 ## Results 
 
-### https-honeypot
+- ## Http/Https-Honeypot
 
 ![Conatiner set up and Ready](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/docker_container.png)
 
@@ -147,9 +147,9 @@ While the current implementation focuses on HTTP/HTTPS, SSH, SMB, FTP, and DNS, 
 
 ![Dos started](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/dos_started.png)
 
-![1000 fire at single point - DOS done - imapcxted system perfomance ](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/dos_1000request_done.png)
+![1000 fire at single point - DOS done - imapcxted system perfomance ](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/dos_1000request_done.png) <br><br>
 
-### ftp-honeypot
+- ## Ftp-Honeypot
 ![attacker_device](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/ftp-honeypot/attacker_device.jpeg)
 ![both_ftp_server_started](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/ftp-honeypot/both_ftp_server_started.png)
 ![honeypot_used_for_attack_logs](https://github.com/Xclusive-Ishan/Honeypots-Beyond-Defense-Offensive-Potential/blob/main/ftp-honeypot/honeypot_used_for_attack_logs.png)
