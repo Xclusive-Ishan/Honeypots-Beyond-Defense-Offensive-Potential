@@ -1,0 +1,12 @@
+2025-03-20 21:13:32,814 - concurrency model: async
+2025-03-20 21:13:32,814 - masquerade (NAT) address: None
+2025-03-20 21:13:32,814 - passive ports: None
+2025-03-20 21:13:32,815 - >>> starting FTP server on 0.0.0.0:2121, pid=9950 <<<
+2025-03-20 21:13:49,929 - 172.31.12.102:59040-[] FTP session opened (connect)
+2025-03-20 21:13:59,447 - 172.31.12.102:59040-[attacker] USER 'attacker' logged in.
+2025-03-20 21:17:05,308 - 172.31.12.102:59040-[attacker] STOR /media/cclab/USB/HoneyPotTrap/DECEPTIVE_TECH/ftp-honeypot/attacker_ftp_root/hello.txt completed=1 bytes=0 seconds=0.12
+2025-03-20 21:17:05,308 - File uploaded: /media/cclab/USB/HoneyPotTrap/DECEPTIVE_TECH/ftp-honeypot/attacker_ftp_root/hello.txt by attacker
+2025-03-20 21:17:05,312 - Connecting to target FTP server at 10.40.0.60:2122...
+2025-03-20 21:17:05,313 - Logged in to target FTP server as user.
+2025-03-20 21:17:05,313 - Uploading file: /media/cclab/USB/HoneyPotTrap/DECEPTIVE_TECH/ftp-honeypot/attacker_ftp_root/hello.txt to 10.40.0.60:2122...
+2025-03-20 21:17:05,421 - File /media/cclab/USB/HoneyPotTrap/DECEPTIVE_TECH/ftp-honeypot/attacker_ftp_root/hello.txt successfully delivered to target FTP server at 10.40.0.60:2122.

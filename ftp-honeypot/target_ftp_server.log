@@ -1,0 +1,12 @@
+2025-03-20 21:13:29,575 - concurrency model: async
+2025-03-20 21:13:29,575 - masquerade (NAT) address: None
+2025-03-20 21:13:29,575 - passive ports: None
+2025-03-20 21:13:29,575 - >>> starting FTP server on 10.40.0.60:2122, pid=9944 <<<
+2025-03-20 21:17:05,312 - 10.40.0.60:45518-[] FTP session opened (connect)
+2025-03-20 21:17:05,313 - 10.40.0.60:45518-[user] USER 'user' logged in.
+2025-03-20 21:17:05,313 - 10.40.0.60:45518-[user] CWD /mnt/USB/HoneyPotTrap/DECEPTIVE_TECH/ftp-honeypot/target_ftp_server_root 250
+2025-03-20 21:17:05,420 - 10.40.0.60:45518-[user] STOR /mnt/USB/HoneyPotTrap/DECEPTIVE_TECH/ftp-honeypot/target_ftp_server_root/hello.txt completed=1 bytes=0 seconds=0.106
+2025-03-20 21:17:05,420 - File received: /mnt/USB/HoneyPotTrap/DECEPTIVE_TECH/ftp-honeypot/target_ftp_server_root/hello.txt from 10.40.0.60
+2025-03-20 21:17:05,421 - 10.40.0.60:45518-[user] FTP session closed (disconnect).
+2025-03-20 21:18:24,385 - received interrupt signal
+2025-03-20 21:18:24,385 - >>> shutting down FTP server, 1 socket(s), pid=9944 <<<
