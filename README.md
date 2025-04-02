@@ -1,5 +1,5 @@
 
-# Honeypots-Beyond-Defense:Offensive-Potential
+# Attack-Chain Honeypot Framework
 This project explores a novel approach to cybersecurity by deploying compromised honeypot machines that are intentionally designed to be utilized by attackers. Unlike traditional honeypots, which are used to detect and analyze attacks, this project flips the script by allowing attackers to exploit these honeypots, which are then used to target other systems. The project focuses on simulating real-world attack vectors, including HTTP/HTTPS, SSH, SMB, FTP, and DNS, to study attacker behavior and improve detection mechanisms.
 
 
